@@ -1,2 +1,5 @@
 # PYTHON-SQLINE
-ESSE E MEU PROJETO DE PYTHON QUE ESTOU APRENDENDO EM AULA ONDE CONECTAMOS UM BANCO DE DADOS E O PYTHON USANDO O SQLINE PODE USAR PARA ESTUDAR A CONECÇÃO COM O BANCO DE DADOS E SI QUISER POSE ME DAR UMA DICAS PARA EU APRENDER MAIS DE PYTHON 
+esse e meu primeiro projeto em python quando puder me de dicas para menhorar
+
+#INSTRUÇÃO
+esse projeto vai usar o SQLINE com o python para conctar com o Banco de dados usando alguns comando para fazer a concção. 
